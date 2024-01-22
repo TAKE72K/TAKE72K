@@ -5,3 +5,6 @@ This is TAKE2k, a physical design engineer from Taiwan, a producer of idolm@ster
 
 ## Language prof
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=take72k&theme=tokyonight&langs_count=5)
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=TAKE72K&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
